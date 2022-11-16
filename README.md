@@ -1,2 +1,2 @@
 # OC-Tumor-genomic-analyses
-Code used to analyze DNA and RNA sequencing from ovarian cancer tumors. 
+Code used to analyze Whole-exome sequencing and RNA-sequencing from primary and metastatic ovarian cancer tumors. 
